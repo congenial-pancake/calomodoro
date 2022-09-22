@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calomodoro/static/css/main.073c9b0a.css",
+    "main.js": "/calomodoro/static/js/main.7c9133b6.js",
+    "static/js/787.e4b0ccfd.chunk.js": "/calomodoro/static/js/787.e4b0ccfd.chunk.js",
+    "index.html": "/calomodoro/index.html",
+    "main.073c9b0a.css.map": "/calomodoro/static/css/main.073c9b0a.css.map",
+    "main.7c9133b6.js.map": "/calomodoro/static/js/main.7c9133b6.js.map",
+    "787.e4b0ccfd.chunk.js.map": "/calomodoro/static/js/787.e4b0ccfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c9133b6.js"
+  ]
+}
