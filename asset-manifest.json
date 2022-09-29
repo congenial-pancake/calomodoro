@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calomodoro/static/css/main.073c9b0a.css",
-    "main.js": "/calomodoro/static/js/main.5b32336b.js",
-    "static/js/496.d959a4b2.chunk.js": "/calomodoro/static/js/496.d959a4b2.chunk.js",
+    "main.js": "/calomodoro/static/js/main.8f43e7ae.js",
+    "static/js/787.e4b0ccfd.chunk.js": "/calomodoro/static/js/787.e4b0ccfd.chunk.js",
     "index.html": "/calomodoro/index.html",
     "main.073c9b0a.css.map": "/calomodoro/static/css/main.073c9b0a.css.map",
-    "main.5b32336b.js.map": "/calomodoro/static/js/main.5b32336b.js.map",
-    "496.d959a4b2.chunk.js.map": "/calomodoro/static/js/496.d959a4b2.chunk.js.map"
+    "main.8f43e7ae.js.map": "/calomodoro/static/js/main.8f43e7ae.js.map",
+    "787.e4b0ccfd.chunk.js.map": "/calomodoro/static/js/787.e4b0ccfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5b32336b.js"
+    "static/js/main.8f43e7ae.js"
   ]
 }
